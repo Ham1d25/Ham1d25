@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png" width="40" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png" width="200" margin="1000" />
 
 
 ## 🚀 About Me
