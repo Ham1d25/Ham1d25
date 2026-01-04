@@ -58,6 +58,11 @@ public:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ham1d25&theme=default&hide_border=true" width="48%" />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/your-github-username?style=social)
+![Followers](https://img.shields.io/github/followers/your-github-username?style=social)
+![Repositories](https://img.shields.io/github/repo-size/your-github-username?style=social)
+
 ---
 
 ## 🎯 Current Focus
