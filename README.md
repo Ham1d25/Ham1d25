@@ -7,12 +7,11 @@
   <img src="https://img.shields.io/badge/Discord-03q__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="https://github.com/Ham1d25"><img src="https://img.shields.io/badge/GitHub-Ham1d25-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png" width="80"/>
 
 ---
-
-
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png" width="80"/>
+</p>
 
 ## 🚀 About Me
 
