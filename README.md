@@ -10,9 +10,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/9G7yXn3P3XkAAAAi/litten-pokemon.gif" width="120" alt="Litten gif" />
-</p>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png" width="40" />
+
 
 ## 🚀 About Me
 
