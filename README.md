@@ -10,8 +10,9 @@
 
 ---
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" height="6" width="100%" />
-
+<p align="center">
+  <img src="https://media.tenor.com/9G7yXn3P3XkAAAAi/litten-pokemon.gif" width="120" alt="Litten gif" />
+</p>
 
 ## 🚀 About Me
 
