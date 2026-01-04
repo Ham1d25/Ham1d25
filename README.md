@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdelhamid (Hamid) 👋</h1>
+<h1 align="center">Hi, I'm Abdelhamid (Hamid) 👋</h1><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png" width="80"/>
 <h3 align="center">Programmer 💻 | Front‑End & Back‑End | Linux 🐧 | C++ Learner 🚀</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png" width="200" margin="1000" />
+
 
 
 ## 🚀 About Me
