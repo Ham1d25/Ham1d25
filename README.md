@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" />
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" />
 
 
 ## 🚀 About Me
