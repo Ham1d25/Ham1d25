@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" autoplay />
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" height="6" width="100%" />
 
 
 ## 🚀 About Me
