@@ -12,9 +12,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ham1d25\&show_icons=true\&hide_border=true\&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ham1d25&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ham1d25\&layout=compact\&hide_border=true\&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ham1d25&layout=compact&theme=default)
 
 ---
 
