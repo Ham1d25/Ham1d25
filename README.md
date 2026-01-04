@@ -12,8 +12,8 @@
 
 ## 📊 GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/Ham1d25)
-![Stars](https://img.shields.io/github/stars/Ham1d25)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ham1d25&show_icons=true&theme=default&cache_seconds=1800)
+
 
 ---
 
